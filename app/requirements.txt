@@ -1,0 +1,11 @@
+cryptography
+Flask
+Flask-MySQL
+flask-controller
+PyMySQL
+pywhatkit
+#zoneInfo
+pytz
+#toast
+flask-bootstrap
+python-dotenv
